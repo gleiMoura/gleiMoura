@@ -2,7 +2,7 @@
 
 ### 🏷️ About me
 <p>
-  I currently live in Rio de Janeiro, Brazil. I love science and technology. I've started to work with education, teaching phisics at schools using robotics to improve the skills of my students. I've started with c++ language, but now I am working with other languages like: CSS, JavaScript and a litle of python.    
+  I currently live in Rio de Janeiro, Brazil. I love science and technology. I've started to work with education, teaching phisics at schools using robotics to improve the skills of my students. I've started with c++ language, but now I am working with other languages like: JavaScript and a litle of python.    
   
 </p>
 <p>
