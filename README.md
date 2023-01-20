@@ -23,6 +23,3 @@
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jest/jest-plain.svg" alt="jest" width="70" height="70" />
 
 <p/> <br/> <br />
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gleiMoura&show_icons=true&theme=radical) <br /> <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gleiMoura&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
