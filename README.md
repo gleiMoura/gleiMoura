@@ -6,7 +6,7 @@
   
 </p>
 <p>
-  In my free time i like to read science fiction books 📚 and my favorite author is ISAAC ASIMOV. I like to listen to music 🎵 (I prefer Indie Rock) and my favorite drinks are coffee and beer. 
+  In my free time i like to read science fiction books 📚 and my favorite author is ISAAC ASIMOV.
 </p>
 
 ### 🏷️ My Skills
